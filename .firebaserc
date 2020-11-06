@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-angular-course-816c3": {
+      "hosting": {
+        "app": [
+          "ionic-angular-course-816c3"
+        ]
+      }
+    }
+  }
+}
